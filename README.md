@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyberpunk Tactical Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,40:ff003c,100:050505&height=200&section=header&text=ANOOSH%20SALEEM&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E2%98%A2%EF%B8%8F%20OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTER%20%E2%98%A2%EF%B8%8F&descAlignY=65&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:ff003c,100:050505&height=220&section=header&text=ANOOSH%20SALEEM&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E2%98%A2%EF%B8%8F%20OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTER%20%E2%98%A2%EF%B8%8F&descAlignY=65&descAlign=50" width="100%" />
 
 <!-- Animated Glitch Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -10,10 +10,16 @@
 
 <br/><br/>
 
-<!-- Real-time Status Badges -->
-<img src="https://img.shields.io/badge/ROLE-CS_STUDENT_%26_PENTESTER-ff003c?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/CERTIFICATION-GOOGLE_CYBERSECURITY-0088ff?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/CORE_STACK-PYTHON_|_C_|_C++_|_BASH-black?style=for-the-badge&logo=gnu-bash&logoColor=ff003c" />
+<!-- Interactive Working Badges / Buttons -->
+<a href="https://tryhackme.com/p/anooshsaleemmasih" target="_blank">
+  <img src="https://img.shields.io/badge/ROLE-CS_STUDENT_%26_PENTESTER-ff003c?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Role" />
+</a>
+<a href="https://www.coursera.org/google-certificates/cybersecurity" target="_blank">
+  <img src="https://img.shields.io/badge/CERTIFICATION-GOOGLE_CYBERSECURITY-0088ff?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certification" />
+</a>
+<a href="https://github.com/AnooshSaleem?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/CORE_STACK-PYTHON_|_C_|_C++_|_BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff003c" alt="Core Stack" />
+</a>
 
 </div>
 
