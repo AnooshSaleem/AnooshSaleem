@@ -40,8 +40,8 @@
   [+] SHELL MASTERY : Advanced Kali Linux CLI & Custom Bash Scripting
   [+] TARGET SCOPE  : OWASP Top 10, Privilege Escalation, Vulnerability Scanning
 ================================================================================
+---
 ### ⚡ // LANGUAGE & SYSTEM MASTERY
-
 <div align="center">
 
 | Skill / Environment | Proficiency Level | Core Focus |
@@ -64,3 +64,4 @@
 | **Exploitation Frameworks** | <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLmap-E34F26?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gobuster-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black"/> |
 
 </div>
+---
