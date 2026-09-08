@@ -41,7 +41,7 @@
   [+] TARGET SCOPE  : OWASP Top 10, Privilege Escalation, Vulnerability Scanning
 ================================================================================
 ```
----
+
 ### ⚡ // LANGUAGE & SYSTEM MASTERY
 <div align="center">
 
@@ -65,4 +65,4 @@
 | **Exploitation Frameworks** | <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLmap-E34F26?sty[...]"></img>
 
 </div>
----
+
