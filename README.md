@@ -1,31 +1,31 @@
 <div align="center">
 
-<!-- Header Banner SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:0d1117&height=200&section=header&text=ANOOSH%20SALEEM&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTER&descAlignY=60&descAlign=50" width="100%" />
+<!-- Cyberpunk Tactical Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,40:ff003c,100:050505&height=200&section=header&text=ANOOSH%20SALEEM&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E2%98%A2%EF%B8%8F%20OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTER%20%E2%98%A2%EF%B8%8F&descAlignY=65&descAlign=50" width="100%" />
 
-<!-- Typing Animation -->
+<!-- Animated Glitch Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Penetration+Testing+%26+Red+Teaming;%5B%2B%5D+Web+Application+Exploitation;%5B%2B%5D+Automated+Reconnaissance;%5B%2B%5D+Leveraging+AI-Driven+Offensive+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=FF003C&center=true&vCenter=true&width=650&lines=%3F+EXPLOIT+DEVELOPMENT+%26+SHELLCRAFT;%3F+AUTOMATED+RECONNAISSANCE+PIPELINES;%3F+PENETRATION+TESTING+%26+RED+TEAMING;%3F+AI-AUGMENTED+OFFENSIVE+TOOLING" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Fast Stat Counters -->
-<img src="https://img.shields.io/badge/System_Status-OPERATIONAL-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
-<img src="https://img.shields.io/badge/Focus-OFFENSIVE_SEC-ff0055?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Target-OWASP_TOP_10-0088ff?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<!-- Real-time Threat Badges -->
+<img src="https://img.shields.io/badge/OPERATIVE_STATUS-ACTIVE_PWNAGE-ff003c?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/PRIMARY_SPECIALTY-RED_TEAMING-black?style=for-the-badge&logo=gnu-bash&logoColor=ff003c" />
+<img src="https://img.shields.io/badge/TARGET_SCOPE-OWASP_TOP_10-0088ff?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
 </div>
 
 <br/>
 
----
-
-### ⚡ // EXECUTING PROFILE.SH
-
 ```bash
-[+] TARGET_PROFILE : Anoosh Saleem
-[+] ROLE           : Penetration Tester / Offensive Security Analyst
-[+] METHODOLOGY    : Reconnaissance -> Enumeration -> Exploitation -> Post-Exploitation
-[+] WORKFLOW       : Enhancing traditional penetration testing with modern AI toolchains
-[+] CORE_SKILLS    : Web Security, Network Hacking, Scripting & Exploit Customization
+┌──(anoosh@redteam-node)-[~/profile]
+└─$ cat core_spec.json
+{
+  "operative": "Anoosh Saleem",
+  "role": "Penetration Tester / Offensive Security Specialist",
+  "methodology": ["Reconnaissance", "Vulnerability Research", "Exploit Crafting", "Privilege Escalation"],
+  "toolkit_efficiency": "Leveraging modern AI-driven toolchains for rapid OSINT & payload customization",
+  "primary_environment": "Kali Linux / Parrot OS / Custom Bash & Python Scripts"
+}
