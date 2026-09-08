@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff003c,100:0d1117&height=230&section=header&text=ANOOSH%20SALEEM&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E2%98[...]"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff003c,100:0d1117&height=230&section=header&text=ANOOSH%20SALEEM&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E2%98%A2%EF%B8%8F%20OFFENSIVE%20SECURITY%20OPERATIVE%20%7C%20PENTESTER%20%E2%98%A2%EF%B8%8F&descAlignY=62&descAlign=50" width="100%" />
 
 <!-- Terminal Glitch Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=FF003C&center=true&vCenter=true&width=650&lines=%3F+OFFENSIVE+SECURITY+%26+RED+TEAMING[...]"></img>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=FF003C&center=true&vCenter=true&width=650&lines=%3F+OFFENSIVE+SECURITY+%26+RED+TEAMING;%3F+EXPLOIT+DEVELOPMENT+%26+SHELLCRAFT;%3F+PYTHON%2C+C%2F%2B%2B+%26+BASH+MASTERY;%3F+AUTOMATED+RECONNAISSANCE+PIPELINES" alt="Typing SVG" />
 </a>
 
 <br/><br/>
