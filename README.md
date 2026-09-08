@@ -14,7 +14,7 @@
 <a href="https://tryhackme.com/p/anooshsaleemmasih" target="_blank">
   <img src="https://img.shields.io/badge/TRYHACKME-TOP_100%25_NEOPHYTE-ff003c?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
 </a>
-<a href="https://www.coursera.org/google-certificates/cybersecurity" target="_blank">
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
   <img src="https://img.shields.io/badge/GOOGLE-CYBERSECURITY_IN_PROGRESS-0088ff?style=for-the-badge&logo=google&logoColor=white" alt="Google Certificate" />
 </a>
 <a href="https://www.linkedin.com/in/anoosh-saleem-masih-b7a88b3b2/" target="_blank">
