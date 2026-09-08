@@ -40,3 +40,27 @@
   [+] SHELL MASTERY : Advanced Kali Linux CLI & Custom Bash Scripting
   [+] TARGET SCOPE  : OWASP Top 10, Privilege Escalation, Vulnerability Scanning
 ================================================================================
+### ⚡ // LANGUAGE & SYSTEM MASTERY
+
+<div align="center">
+
+| Skill / Environment | Proficiency Level | Core Focus |
+| :--- | :--- | :--- |
+| **Python** | `[████████████████████] 95%` | Exploit payloads, custom scanners, automation |
+| **Bash / Shell** | `[████████████████████] 95%` | Kali CLI, automated recon pipelines, system admin |
+| **C / C++** | `[████████████████░░░░] 80%` | Low-level execution, memory analysis, shellcode |
+| **Linux (Kali/Parrot)** | `[████████████████████] 95%` | Offensive environment setup, terminal workflows |
+| **SQL** | `[███████████████░░░░░] 75%` | Database enumeration, manual & automated SQLi |
+
+</div>
+### 🗡️ // TACTICAL ARSENAL & WEAPONRY
+
+<div align="center">
+
+| Sector | Primary Arsenal |
+| :--- | :--- |
+| **Offensive OS** | <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Parrot_OS-02B4E8?style=for-the-badge&logo=parrot-security&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+| **Interception & Scanners** | <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> |
+| **Exploitation Frameworks** | <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLmap-E34F26?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gobuster-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black"/> |
+
+</div>
